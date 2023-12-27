@@ -1,2 +1,2 @@
-zeph-stake-macos.exe --wallet=MyWallet --server=http://146.56.136.155:17767 --mnemonic="huge huge huge huge huge huge huge huge huge huge huge huge huge huge huge huge huge huge huge huge huge huge huge huge huge" --restore=140000
+zeph-stake-win.exe --wallet=MyWallet --server=http://146.56.136.155:17767 --mnemonic="huge huge huge huge huge huge huge huge huge huge huge huge huge huge huge huge huge huge huge huge huge huge huge huge huge" --restore=140000
 pause
