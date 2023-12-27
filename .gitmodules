@@ -1,0 +1,3 @@
+[submodule "zephyr-javascript"]
+	path = zephyr-javascript
+	url = https://github.com/ZephyrProtocol/zephyr-javascript.git
